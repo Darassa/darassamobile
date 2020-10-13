@@ -2,7 +2,7 @@
   <name>Darassa</name>
   <description>Darassa Mobile, apprenez partout, à tout moment et sur n'importe qu'elle appareil.</description>
   <author href="http://daracad.heroku.com" email="support@darassa.heroku.com">Darassa Team</author>
-  <content src="www/index.html"/>
+  <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4"/>
   <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1"/>
