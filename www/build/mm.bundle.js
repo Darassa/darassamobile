@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.herokuapp.daracade.darassamobile",
+    "app_id" : "online.darassa.darassamobile",
     "appname": "Darassa Mobile",
     "desktopappname": "Darassa Desktop",
     "versioncode" : "2021",
@@ -71105,7 +71105,7 @@ angular.module('mm.core')
     "demo_sites": "",
     "gcmpn": "694767596569",
     "customurlscheme": "darassamobile",
-    "siteurl": "http://192.168.1.101/darassa.local",
+    "siteurl": "http://15.236.119.124/",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
